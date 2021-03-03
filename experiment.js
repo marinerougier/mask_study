@@ -1445,7 +1445,7 @@
 
   // Preload images
   var preloadimages = [];
-  preloadimages.push(vaast_stimuli_preload);
+  preloadimages.push(loading_gif, vaast_instructions_images, vaast_bg_filename, vaast_stimuli_preload);
 
 
   // timeline initiaization ---------------------------------------------------------------
